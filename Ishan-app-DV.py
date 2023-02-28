@@ -1,5 +1,5 @@
 
-import plotly.plotly as py 
+from chart_studio import plotly as pl
 import streamlit as st
 import pandas as pd
 import numpy as np
