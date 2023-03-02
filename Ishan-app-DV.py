@@ -7,8 +7,8 @@ import numpy as np
 import plotly.express as px
 import os
 from matplotlib import image
-import plotly as pl
-import chart_studio as cs
+import plotly
+
 
 
 # absolute path to this file
