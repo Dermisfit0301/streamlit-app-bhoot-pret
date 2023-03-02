@@ -4,10 +4,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
+from plotly import express as px
 import os
 from matplotlib import image
-import plotly
+
 
 
 
